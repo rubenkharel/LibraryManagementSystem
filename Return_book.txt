@@ -1,0 +1,5 @@
+Harry Potter,ruben kharel,2019/01/18 at 06:31:07,0,2.0
+Harry Potter,ruben kharel,2019/01/18 at 06:40:52,0,2.0
+Harry Potter,rakesh,2019/01/18 at 06:43:30,0,2.0
+Programming With Python,ruben,2019/01/18 at 06:56:19,0,1.5
+Harry Potter,ruben kharel,2019/01/18 at 07:05:21,0,2.0

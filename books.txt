@@ -1,0 +1,3 @@
+B001,Harry Potter,JK Rowling,38,$2
+B002,Start with Why,Simon Sinek,10,$1.5
+B003,Programming With Python,John Smith,22,$1.5
